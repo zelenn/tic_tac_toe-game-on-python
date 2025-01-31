@@ -1,0 +1,22 @@
+{
+  "two_players": {
+    "games_played": 0,
+    "player1_wins": 0,
+    "player2_wins": 0,
+    "draws": 0,
+    "best_streak_p1": 0,
+    "best_streak_p2": 0,
+    "current_streak_p1": 0,
+    "current_streak_p2": 0
+  },
+  "vs_ai": {
+    "games_played": 0,
+    "human_wins": 0,
+    "computer_wins": 0,
+    "draws": 0,
+    "best_streak_human": 0,
+    "best_streak_comp": 0,
+    "current_streak_human": 0,
+    "current_streak_comp": 0
+  }
+}
